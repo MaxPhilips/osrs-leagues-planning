@@ -92,3 +92,51 @@ asdf
 - Kj: complete tzhaar-ket-rak's third challenge
 - Kj: complete tzhaar-ket-rak's special challenge
 - D: defeat awakened leviathan
+
+# training methods
+
+agility: tasks (laps, brimhaven), EH barb fishing
+
+attack: slayer
+
+construction: mahogany tables
+
+cooking: cook fish
+
+crafting: tzhaar diamonds
+
+defence: defensive casting
+
+farming: trees
+
+firemaking: bonfires
+
+fishing: EH barb fishing, karams
+
+fletching: vale totems, darts
+
+herblore: friendly forager
+
+hitpoints: slayer
+
+hunter: contracts, black chins
+
+magic: play the league
+
+mining: EH gem rocks
+
+prayer: chaos altar
+
+ranged: slayer
+
+runecraft: soul harvester
+
+slayer: slayer
+
+smithing: giant's foundry
+
+strength: EH barb fishing, slayer
+
+thieving: tasks (sorceress' garden, pyramid plunder), rogue's chest
+
+woodcutting: EH teaks, EH mahogany
