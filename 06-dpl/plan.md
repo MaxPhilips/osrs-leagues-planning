@@ -1,7 +1,18 @@
+# goals
+
+1. dragon rank
+2. menagerie of pets
+
 # areas
 
-## varlamore
-
+<details>
+  <summary>Click to expand</summary>
+  
+  ## varlamore
+  
+  <details>
+    <summary>Click to expand</summary>
+    
 ### pets 6
 - abyssal orphan+
 - amoxliatl
@@ -10,24 +21,36 @@
 - quetzin
 - doom
 - sol
-
-## karamja
-
+  </details>
+  
+  ## karamja
+  
+  <details>
+    <summary>Click to expand</summary>
+    
 ### pets 2
 - jad
 - zuk
-
-## desert
-
+  </details>
+  
+  ## desert
+  
+  <details>
+    <summary>Click to expand</summary>
+    
 ### pets 5
 - kq
 - toa
 - levi
 - tempoross
 - gotr
-
-## wilderness
-
+  </details>
+  
+  ## wilderness
+  
+  <details>
+    <summary>Click to expand</summary>
+    
 ### pets 5
 - chaos ele+
 - scorpia
@@ -36,12 +59,18 @@
 - skeleton
 - kbd+
 - corp
-
-## kandarin
-
+  </details>
+  
+  ## kandarin
+  
+  <details>
+    <summary>Click to expand</summary>
+    
 ### pets 2
 - kraken
 - thermy
+  </details>
+</details>
 
 # relics
 
