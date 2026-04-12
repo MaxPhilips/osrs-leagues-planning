@@ -32,20 +32,7 @@
 - jad
 - zuk
   </details>
-  
-  ## desert
-  
-  <details>
-    <summary>Click to expand</summary>
-    
-### pets 5
-- kq
-- toa
-- levi
-- tempoross
-- gotr
-  </details>
-  
+
   ## wilderness
   
   <details>
@@ -60,87 +47,97 @@
 - kbd+
 - corp
   </details>
-  
-  ## kandarin
+
+  ## asgarnia
   
   <details>
     <summary>Click to expand</summary>
     
-### pets 2
-- kraken
-- thermy
+### pets 8
+- cerb
+- kree
+- graardor
+- zily
+- kril
+- nex
+- whisperer
+- royal titans
+  </details>
+  
+  ## desert
+  
+  <details>
+    <summary>Click to expand</summary>
+    
+### pets 5
+- kq
+- toa
+- levi
+- tempoross
+- gotr
   </details>
 </details>
 
 # relics
 
-asdf
+1. endless harvest
+2. friendly forager
+3. evil eye
+4. conniving clues
+5. soul harvest
+6. culling spree
+7. flow state
+8. minion
 
-# pact progression
+# gear/boss/pact progression
 
-## pretty confident
-- G: open the leagues menu
-- G: complete the leagues tutorial
-- G: defeat a hill giant
-- G: reach combat level 50
-- G: use the protect from melee prayer
-- Kj: defeat a tzhaar
-- Kj: defeat a steel dragon on karamja
-- V: 1 hueycoatl kill
-- Kj: equip a fire cape
-- W: defeat a chaos dwarf in the wilderness
-- W: imbue a god cape
-- W: equip a dragon 2-handed sword in the wilderness
-- W: equip a malediction ward
-- G: kill 1 unique echo boss
-- W: equip a piece of the dagon'hai set
-- W: defeat the corporeal beast
-- D: set a mummy ablaze
-- K: defeat a mithril dragon
-- K: defeat a demonic gorilla
-- D: cast ice barrage
-- Kj: equip an infernal cape
-- G: kill 2 unique echo bosses
-- D: equip a dragon chainbody in the kharidian desert
-- K: equip some zenyte jewelry
-- K: defeat the kraken boss 50 times
-- K: equip a trident of the seas
-- K: equip an abyssal tentacle
-- K: equip an occult necklace
-- W: equip the voidwaker
-- G: kill 3 unique echo bosses
-- D: equip a piece of masori armour
-- D: equip osmumten's fang (or)
-- G: kill 4 unique echo bosses
-- D: equip the venator ring
+## day 1
 
-## flex
-- V: complete wave 12 of fortis colosseum
-- V: defeat awakened vardorvis
-- V: equip avernic treads
-- Kj: complete tzhaar-ket-rak's third challenge
-- Kj: complete tzhaar-ket-rak's special challenge
-- D: defeat awakened leviathan
+72 hunter, 72 crafting OR 77.5k; 60 ranged + 50 defense: mixed hide
+
+72 hunter, 74 fletching; 66 ranged: hscb
+
+## first region
+
+rune xbow
+
+odium ward
+
+## second region
+
+t4+: void
+
+deadeye
+
+king's barrage???
+
+## third region
+
+masori
+
+zcb
+
+venator
 
 # training methods
 
-agility: tasks (laps, brimhaven), EH barb fishing
+agility: brimhaven
 
 attack: slayer
 
-construction: mahogany tables
+construction: mahogany tables (banking)
 
-cooking: cook fish
+cooking: cooking
 
 crafting: tzhaar diamonds
 
-defence: defensive casting
+defence: slayer
 
 farming: trees
 
 firemaking: bonfires
 
-fishing: EH barb fishing, karams
+fishing: fly fishing, karams
 
 fletching: vale totems, darts
 
@@ -150,22 +147,22 @@ hitpoints: slayer
 
 hunter: contracts, black chins
 
-magic: play the league
+magic: slayer
 
 mining: EH gem rocks
 
 prayer: chaos altar
 
-ranged: slayer
+ranged: play the league
 
-runecraft: soul harvester
+runecraft: soul harvest
 
 slayer: slayer
 
 smithing: giant's foundry
 
-strength: EH barb fishing, slayer
+strength: slayer
 
 thieving: tasks (sorceress' garden, pyramid plunder), rogue's chest
 
-woodcutting: EH teaks, EH mahogany
+woodcutting: EH teaks, EH mahogany (make planks)
