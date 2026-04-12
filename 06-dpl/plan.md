@@ -83,13 +83,15 @@
 1. endless harvest
 2. friendly forager
 3. evil eye
-4. conniving clues
+4. conniving clues / any tbh. ff->hotfoot if butler
 5. soul harvest
 6. culling spree
 7. flow state
 8. minion
 
 # gear/boss/pact progression
+
+follow https://oldschool.runescape.wiki/w/Guide:Leagues:_Demonic_pacts_starting_guide_by_Laef
 
 ## day 1
 
@@ -103,13 +105,13 @@ rune xbow
 
 odium ward
 
+king's barrage???
+
 ## second region
 
 t4+: void
 
 deadeye
-
-king's barrage???
 
 ## third region
 
