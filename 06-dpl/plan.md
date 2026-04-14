@@ -81,12 +81,12 @@
 # relics
 
 1. endless harvest
-2. friendly forager
-3. evil eye
-4. conniving clues / any tbh. ff->hotfoot if butler
+2. hotfoot
+3. map of alacrity
+4. butler's bell
 5. soul harvest
 6. culling spree
-7. flow state
+7. flow state // reload clues?
 8. minion
 
 # gear/boss/pact progression
@@ -123,27 +123,27 @@ venator
 
 # training methods
 
-agility: brimhaven
+agility: HF
 
 attack: slayer
 
 construction: mahogany tables (banking)
 
-cooking: cooking
+cooking: EH fishing
 
-crafting: tzhaar diamonds
+crafting: tzhaar diamonds, BB
 
 defence: slayer
 
 farming: trees
 
-firemaking: bonfires
+firemaking: FS bonfires
 
-fishing: fly fishing, karams
+fishing: EH fly fishing, karams
 
-fletching: vale totems, darts
+fletching: vale totems, darts, FS/BB bows
 
-herblore: friendly forager
+herblore: BB
 
 hitpoints: slayer
 
@@ -157,11 +157,11 @@ prayer: chaos altar
 
 ranged: play the league
 
-runecraft: soul harvest
+runecraft: SH
 
 slayer: slayer
 
-smithing: giant's foundry
+smithing: HF, giant's foundry
 
 strength: slayer
 
